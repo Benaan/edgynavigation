@@ -15,7 +15,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_margin="10pt"
+        android:layout_marginEnd="10pt"
+        android:layout_marginBottom="40pt"
         android:clickable="true"
         android:contentDescription="@string/start"
         app:srcCompat="@android:drawable/ic_media_play" />

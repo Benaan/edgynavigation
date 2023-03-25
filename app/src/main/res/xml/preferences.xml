@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        app:key="apiKey"
+        app:persistent="true"
+        app:summary="@string/api_key_description"
+        app:title="@string/api_key_input"
+        app:useSimpleSummaryProvider="true" />
+
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:key="editRoute"
+        app:persistent="true"
+        app:title="@string/edit_route" />
+
+</PreferenceScreen>

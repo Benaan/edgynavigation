@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EdgyNavigation</string>
+    <string name="app_description">Share a location using Google Maps to this app to create a route that your Garmin Connect can use.</string>
+    <string name="edit_route">Edit the route before opening</string>
+    <string name="api_key_input">Google places API key</string>
+    <string name="invalid_destination">Couldn\'t get the location from the share</string>
+    <string name="start">Start</string>
+    <string name="api_key_description">Provide a Google places API key. To create a new one follow the instructions <a href="https://developers.google.com/maps/documentation/places/web-service/get-api-key">here</a></string>
+
+</resources>

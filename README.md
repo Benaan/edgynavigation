@@ -1,4 +1,4 @@
-# edgynavigation
+# Edgy Navigation
 
 A app to create a route from your current location to a shared loction from Google Maps. This route is then opened on Garmin Connect where you can send it to your Garmin Device.
 
@@ -9,4 +9,4 @@ This is a paid api when doing many requests. But in normal use cases should be f
 
 ## Usage
 
-Open Google Maps and select a location. Press the share button and select the EdgyNavigation app.
+Open Google Maps and select a location. Press the share button and select the Edgy Navigation app.
